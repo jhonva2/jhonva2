@@ -8,4 +8,10 @@ console.log(`Experiencia: ${perfilGitHub.experiencia}`);
 console.log(`Intereses: ${perfilGitHub.intereses.join(", ")}`);
 
 
+💻 Actualmente estoy aprendiendo Angular, React, TypeScrip, Mongodb y otras herramientas
+
+
+📧  "Para comunicarte conmigo, usa":
+     jhonva2002@gmail.com
+
 

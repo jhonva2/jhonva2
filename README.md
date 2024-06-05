@@ -1,8 +1,9 @@
 ## Hola 👋, soy John Valencia 
-  const perfilGitHub = {
-  quien soy: Desarollador junior FullStack
-  experiencia: "Profesional con más de 10 años de experiencia en administración y gestión de equipos y procesos en sectores administrativos, tecnológicos y de servicios.",
-  intereses: ["Tecnología", "Videojuegos", "Deporte"]
+  Quien soy: Desarollador junior FullStack.
+  
+  Experiencia: "Profesional con más de 10 años de experiencia en administración y gestión de equipos y procesos en sectores administrativos, tecnológicos y de servicios.",
+  
+  Intereses: ["Tecnología", "Videojuegos", "Deporte"]
   ___
 
 Actualmente me dedico a: 

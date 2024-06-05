@@ -1,7 +1,7 @@
 ## Hola 👋, soy John Valencia 
-  Quien soy: Desarollador junior FullStack.
+  Soy desarollador junior FullStack.
   
-  Experiencia: "Profesional con más de 10 años de experiencia en administración y gestión de equipos y procesos en sectores administrativos, tecnológicos y de servicios.",
+  Profesional con mas de 10 años de experiencia en administración y gestión de equipos y procesos en sectores administrativos, tecnológicos y de servicios.",
   
   Intereses: ["Tecnología", "Videojuegos", "Deporte"]
   ___

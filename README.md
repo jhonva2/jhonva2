@@ -12,12 +12,16 @@ console.log(`Afianzar principios sobre buenas practicas y metodologias de desarr
 
 
 💻 Actualmente estoy aprendiendo Angular, React, TypeScrip, Mongodb y otras herramientas
+___
+
 
 
 📧  "Para comunicarte conmigo, usa":
      jhonva2002@gmail.com
 
      Conecta conmigo por: www.linkedin.com/in/john-valencia-a85818117 
+     ___
+
 
      
 

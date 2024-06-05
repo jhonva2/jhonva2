@@ -6,11 +6,11 @@
   Intereses: ["Tecnología", "Videojuegos", "Deporte"]
   ___
 
-Actualmente me dedico a: 
+Actualmente me dedico a: 📖
 
-    .Reforzar conocimientos sobre el stack tecnologico MEAN
-📖 {.Realizar un proyecto FullStack MEAN
-    .Afianzar principios sobre buenas practicas y metodologias de desarrollo
+.Reforzar conocimientos sobre el stack tecnologico MEAN
+.Realizar un proyecto FullStack MEAN
+.Afianzar principios sobre buenas practicas y metodologias de desarrollo
 ___
 
 💻 Actualmente estoy aprendiendo Angular, React, TypeScrip, Mongodb y otras herramientas

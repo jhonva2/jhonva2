@@ -8,9 +8,9 @@
 
 Actualmente me dedico a: 📖
 
-.Reforzar conocimientos sobre el stack tecnologico MEAN
-.Realizar un proyecto FullStack MEAN
-.Afianzar principios sobre buenas practicas y metodologias de desarrollo
+<p>Reforzar conocimientos sobre el stack tecnologico MEAN</p>
+<p>Realizar un proyecto FullStack MEAN</p>
+<p>Afianzar principios sobre buenas practicas y metodologias de desarrollo</p>
 ___
 
 💻 Actualmente estoy aprendiendo Angular, React, TypeScrip, Mongodb y otras herramientas
